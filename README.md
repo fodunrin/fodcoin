@@ -1,3 +1,3 @@
 # fodcoin
 Developing a digital currency. 
-Website : https://fodcom.site/fodcoin
+Website : https://fodcom.site/fodcoins
